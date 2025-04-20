@@ -1,6 +1,6 @@
 import streamlit as st
-import random
-from streamlit_confetti import confetti
+
+
 
 # Initialize session state
 if "board" not in st.session_state:
